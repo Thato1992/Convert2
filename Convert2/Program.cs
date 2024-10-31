@@ -32,7 +32,7 @@ namespace Convert2
                 }
                 else
                 {
-                    Console.WriteLine("Please enter a valid number between 0 and 9999.");
+                    Console.WriteLine("Please enter a valid number limited to four digits.");
                 }
             }
         }
